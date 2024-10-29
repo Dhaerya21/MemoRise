@@ -66,7 +66,7 @@ MemoRise is a MERN (MongoDB, Express.js, React.js, Node.js) based web applicatio
    npm start
    ```
 
-5. **Access the application** at `http://localhost:3000`.
+5. **Access the application** at `http://localhost:5173/`.
 
 ## Usage
 
