@@ -70,9 +70,9 @@ MemoRise is a MERN (MongoDB, Express.js, React.js, Node.js) based web applicatio
 
 ## Usage
 
-1. **Sign Up/Login**: Register or log in to access personalized features.
+1. **Sign Up/Login**: Register or Log in to access personalized features.
 2. **Chatbot Interaction**: Use the chatbot for diagnostic interactions.
-3. **Play Cognitive Games**: Access various games designed to enhance memory.
+3. **Play Cognitive Games**: Access various games to Designed enhance memory.
 4. **Track Your Progress**: View your cognitive improvement over time.
 5. **Personal Diary**: Record your thoughts and memories.
 
